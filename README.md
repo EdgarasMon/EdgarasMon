@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Edgaras
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning React, MongoDB, clean code writing.
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning React, JS, MongoDB, clean code writing.
 - 💞️ I’m looking to collaborate on ...
 - 📫 linkedin: edgarasmon
 
