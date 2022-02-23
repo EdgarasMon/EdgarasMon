@@ -10,7 +10,7 @@
 
 🕸️ https://www.edgarasmonkus.com
 
-📫 linkedin: edgarasmon
+📫 linkedin: www.linkedin.com/in/edgarasmon
 
 
 <!---
